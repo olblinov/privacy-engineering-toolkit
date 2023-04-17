@@ -6,6 +6,10 @@
     - Replika AI Suspended in Italy for Non-Compliance with GDPR
     - FTC Takes Enforcement Action Against GoodRx for Unauthorized Disclosure of Personal Health Information
 
+- [6-12 Feb 23](2023/february/120223.md): 
+    - German Data Protection Conference issues decision on third country access to personal data
+    - DPO dismissal is subject to labour law rules; conflict of interest to be understood in everyday language meaning
+
 # January 2023
 - [23-29 Jan 23](2023/january/290123.md):
     - Danish DPA's Confusing Guidance on Consent Confirmation Storage
