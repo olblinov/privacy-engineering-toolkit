@@ -1,62 +1,62 @@
-Category,Description
-Identity.Identifier.User_ID,"A unique identifier for a user, such as a customer ID or user ID"
-Identity.Identifier.Device_ID,"An identifier for a specific device, such as a serial number or IMEI"
-Identity.Identifier.Universal_ID,A universal identifier that can be used across multiple systems or platforms
-Identity.Identifier.Governmental_ID,"A government-issued identification number, such as a social security number or driver's license number"
-Identity.Identifier.IP,An IP address associated with a user or device
-Identity.Identifier.Advertising_ID,"An identifier used for advertising purposes, such as a Google advertising ID or Apple IDFA"
-Identity.Identifier.Other,Any other type of identifier not covered by the above categories
-Identity.Contact.Name,The name of a user or contact
-Identity.Contact.Email,An email address associated with a user or contact
-Identity.Contact.Phone_number,A phone number associated with a user or contact
-Identity.Contact.Address,A physical address associated with a user or contact
-Identity.Contact.Alias,A nickname or alias used by a user or contact
-Identity.Contact.Other,Any other type of contact information not covered by the above categories
-Identity.Attribute.Age,The age of a user or contact
-Identity.Attribute.Gender,The gender of a user or contact
-Identity.Attribute.Education,The education level of a user or contact
-Identity.Attribute.Work,The employment status or occupation of a user or contact
-Identity.Attribute.Social_graph,Information about a user's social connections or network
-Identity.Attribute.Fitness,Information about a user's fitness or health habits
-Identity.Attribute.Installed_apps,A list of apps installed on a user's device
-Identity.Attribute.Calendar,Information about a user's calendar or schedule
-Identity.Attribute.Other,Any other type of attribute information not covered by the above categories
-Identity.Sensitive.Health,Information about a user's health status or medical conditions
-Identity.Sensitive.Genetic,Information about a user's genetic makeup
-Identity.Sensitive.Biometric,"Biometric data, such as fingerprints or facial recognition data"
-Identity.Sensitive.Race_and_ethnicity,Information about a user's race or ethnicity
-Identity.Sensitive.Political_or_religious_beliefs,Information about a user's political or religious beliefs
-Identity.Sensitive.Sexual_orientation,Information about a user's sexual orientation or preferences
-Identity.Sensitive.Other,Any other type of sensitive information not covered by the above categories
-Financial.Payment_info,Information about a user's payment methods or financial accounts
-Financial.Credit_info,Information about a user's credit history or credit score
-Financial.Transactions,"Information about a user's financial transactions, such as purchases or transfers"
-Financial.Order_history,Information about a user's order history or purchase behavior
-Financial.Assets,Information about a user's assets or investments
-Financial.Other,Any other type of financial information not covered by the above categories
-Location.Precise_location,"Precise location data, such as GPS coordinates"
-Location.Approximate_location,"Approximate location data, such as city or zip code"
-Communications.Contacts,A list of contacts or connections for a user
-Communications.Emails,Email messages or metadata associated with a user's email account
-Communications.SMS,Text message data associated with a user's phone number
-Communications.Calls,Call metadata or recording data associated with a user's phone number
-Communications.Customer_support,Information about a user's interactions with customer support services
-Communications.Other,Any other type of communication data not covered by the above categories
-Content.Photos,Photos or image data associated with a user
-Content.Videos,Video data associated with a user
-Content.Music,Music or audio data associated with a user
-Content.Other_audio,Any other type of audio data not covered by the above categories
-Content.Gameplay_content,Gameplay data or metadata associated with a user's gaming activity
-Content.Docs,Document or file data associated with a user
-Content.Other,Any other type of content data not covered by the above categories
-Interaction.Web_browsing,Web browsing history or metadata associated with a user's internet activity
-Interaction.Search_history,Search history or metadata associated with a user's internet activity
-Interaction.Preferences,User preferences or settings data associated with a particular app or service
-Interaction.Clickstream,Clickstream data associated with a user's internet activity
-Interaction.Advertising_data,"Data about a user's interaction with advertising, such as ad clicks or impressions"
-Interaction.Crash_data,Data about app or service crashes or errors associated with a user
-Interaction.Performance_data,Data about app or service performance associated with a user
-Interaction.Other_diagnostic_data,Any other type of diagnostic data not covered by the above categories
-Interaction.Logs,Application or service logs associated with a user
-Interaction.Other,Any other type of interaction data not covered by the above categories
-Other_Data.Other_data_types,Any other type of data not covered by the above categories
+Category,Description,iOS Taxonomy (https://developer.apple.com/app-store/app-privacy-details/),Android Taxonomy (https://developer.android.com/guide/topics/data/collect-share)
+Identity.Identifier.User_ID,"A unique identifier for a user, such as a customer ID or user ID",Identifiers.User_ID,Personal_info.User_IDs
+Identity.Identifier.Device_ID,"An identifier for a specific device, such as a serial number or IMEI",Identifiers.Device_ID,Device_or_other_IDs.Device_or_other_IDs
+Identity.Identifier.Universal_ID,A universal identifier that can be used across multiple systems or platforms,Identifiers.Device_ID,Device_or_other_IDs.Device_or_other_IDs
+Identity.Identifier.Governmental_ID,"A government-issued identification number, such as a social security number or driver's license number",Contact_Info.Other_User_Contact_Info,Personal_info.Other_info
+Identity.Identifier.IP,An IP address associated with a user or device,Identifiers.Device_ID,Device_or_other_IDs.Device_or_other_IDs
+Identity.Identifier.Advertising_ID,"An identifier used for advertising purposes, such as a Google advertising ID or Apple IDFA",Identifiers.Device_ID,Device_or_other_IDs.Device_or_other_IDs
+Identity.Identifier.Other,Any other type of identifier not covered by the above categories,Identifiers.Device_ID,Device_or_other_IDs.Device_or_other_IDs
+Identity.Contact.Name,The name of a user or contact,Contact_Info.Name,Personal_info.Name
+Identity.Contact.Email,An email address associated with a user or contact,Contact_Info.Email_Address,Personal_info.Email_address
+Identity.Contact.Phone_number,A phone number associated with a user or contact,Contact_Info.Phone_Number,Personal_info.Phone_number
+Identity.Contact.Address,A physical address associated with a user or contact,Contact_Info.Physical_Address,Personal_info.Address
+Identity.Contact.Alias,A nickname or alias used by a user or contact,Contact_Info.Other_User_Contact_Info,Personal_info.Other_info
+Identity.Contact.Other,Any other type of contact information not covered by the above categories,Contact_Info.Other_User_Contact_Info,Personal_info.Other_info
+Identity.Attribute.Age,The age of a user or contact,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Attribute.Gender,The gender of a user or contact,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Attribute.Education,The education level of a user or contact,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Attribute.Work,The employment status or occupation of a user or contact,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Attribute.Social_graph,Information about a user's social connections or network,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Attribute.Fitness,Information about a user's fitness or health habits,Health_Fitness.Fitness,Health_and_fitness.Fitness_info
+Identity.Attribute.Installed_apps,A list of apps installed on a user's device,Usage_Data.Other_Usage_Data,App_activity.Installed_apps
+Identity.Attribute.Calendar,Information about a user's calendar or schedule,Other_Data.Other_Data_Types,Calendar.Calendar
+Identity.Attribute.Other,Any other type of attribute information not covered by the above categories,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Sensitive.Health,Information about a user's health status or medical conditions,Health_Fitness.Health,Health_and_fitness.Health_info
+Identity.Sensitive.Genetic,Information about a user's genetic makeup,Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Sensitive.Biometric,"Biometric data, such as fingerprints or facial recognition data",Other_Data.Other_Data_Types,Personal_info.Other_info
+Identity.Sensitive.Race_and_ethnicity,Information about a user's race or ethnicity,Sensitive_Info.Sensitive_Info,Personal_info.Race_and_ethnicity
+Identity.Sensitive.Political_or_religious_beliefs,Information about a user's political or religious beliefs,Sensitive_Info.Sensitive_Info,Personal_info.Political_or_religious_beliefs
+Identity.Sensitive.Sexual_orientation,Information about a user's sexual orientation or preferences,Sensitive_Info.Sensitive_Info,Personal_info.Sexual_orientation
+Identity.Sensitive.Other,Any other type of sensitive information not covered by the above categories,Sensitive_Info.Sensitive_Info,Personal_info.Other_info
+Financial.Payment_info,Information about a user's payment methods or financial accounts,Financial_Info.Payment_Info,Financial_info.User_payment_info
+Financial.Credit_info,Information about a user's credit history or credit score,Financial_Info.Credit_Info,Financial_info.Credit_score
+Financial.Transactions,"Information about a user's financial transactions, such as purchases or transfers",Financial_Info.Other_Financial_Info,Financial_info.Other_financial_info
+Financial.Order_history,Information about a user's order history or purchase behavior,Purchases.Purchase_History,Financial_info.Purchase_history
+Financial.Assets,Information about a user's assets or investments,Financial_Info.Other_Financial_Info,Financial_info.Other_financial_info
+Financial.Other,Any other type of financial information not covered by the above categories,Financial_Info.Other_Financial_Info,Financial_info.Other_financial_info
+Location.Precise_location,"Precise location data, such as GPS coordinates",Location.Precise_Location,Location.Precise_location
+Location.Approximate_location,"Approximate location data, such as city or zip code",Location.Coarse_Location,Location.Approximate_location
+Communications.Contacts,A list of contacts or connections for a user,Contacts.Contacts,Contacts.Contacts
+Communications.Emails,Email messages or metadata associated with a user's email account,User_Content.Emails_or_Text_Messages,Messages.Emails
+Communications.SMS,Text message data associated with a user's phone number,User_Content.Emails_or_Text_Messages,Messages.SMS_or_MMS
+Communications.Calls,Call metadata or recording data associated with a user's phone number,User_Content.Audio_Data,Audio_files.Voice_or_sound_recordings
+Communications.Customer_support,Information about a user's interactions with customer support services,User_Content.Customer_Support,Messages.Other_messages
+Communications.Other,Any other type of communication data not covered by the above categories,User_Content.Emails_or_Text_Messages,Messages.Other_messages
+Content.Photos,Photos or image data associated with a user,User_Content.Photos_or_Videos,Photos_or_videos.Photos
+Content.Videos,Video data associated with a user,User_Content.Photos_or_Videos,Photos_or_videos.Videos
+Content.Music,Music or audio data associated with a user,User_Content.Audio_Data,Audio_files.Music_files
+Content.Other_audio,Any other type of audio data not covered by the above categories,User_Content.Audio_Data,Audio_files.Other_audio_files
+Content.Gameplay_content,Gameplay data or metadata associated with a user's gaming activity,User_Content.Gameplay_Content,App_activity.Other_user-generated_content
+Content.Docs,Document or file data associated with a user,User_Content.Other_User_Content,Files_and_docs.Files_and_docs
+Content.Other,Any other type of content data not covered by the above categories,User_Content.Other_User_Content,App_activity.Other_user-generated_content
+Interaction.Web_browsing,Web browsing history or metadata associated with a user's internet activity,Browsing_History.Browsing_History,Web_browsing.Web_browsing_history
+Interaction.Search_history,Search history or metadata associated with a user's internet activity,Search_History.Search_History,App_activity.In-app_search_history
+Interaction.Preferences,User preferences or settings data associated with a particular app or service,Usage_Data.Product_Interaction,App_activity.App_interactions
+Interaction.Clickstream,Clickstream data associated with a user's internet activity,Usage_Data.Product_Interaction,App_activity.App_interactions
+Interaction.Advertising_data,"Data about a user's interaction with advertising, such as ad clicks or impressions",Usage_Data.Advertising_Data,App_activity.App_interactions
+Interaction.Crash_data,Data about app or service crashes or errors associated with a user,Diagnostics.Crash_Data,App_info_and_performance.Crash_logs
+Interaction.Performance_data,Data about app or service performance associated with a user,Diagnostics.Performance_Data,App_info_and_performance.Diagnostics
+Interaction.Other_diagnostic_data,Any other type of diagnostic data not covered by the above categories,Diagnostics.Other_Diagnostic_Data,App_info_and_performance.Other_app_performance_data
+Interaction.Logs,Application or service logs associated with a user,Diagnostics.Performance_Data,App_info_and_performance.Diagnostics
+Interaction.Other,Any other type of interaction data not covered by the above categories,Usage_Data.Other_Usage_Data,App_activity.Other_actions
+Other_Data.Other_data_types,Any other type of data not covered by the above categories,Other_Data.Other_Data_Types,Personal_info.Other_info
