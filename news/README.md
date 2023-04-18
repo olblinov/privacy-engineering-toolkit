@@ -15,6 +15,14 @@
     - CJEU AG's Opinion Clarifies Scope of Data Access Requests
     - Austrian DPA Rules Against Legitimate Interest in Employee Email Monitoring
     - UK Company Fined £200,000 for 1.7 Million Spam Calls
+  
+- [20-26 Feb 23](2023/february/260223.md):
+  - US Adequacy Decision Delayed Until Redress Mechanism Implemented
+  - EDPB Approves Guidelines on Chapter V, Certification, and Dark Patterns
+  - Italian Company Fined €4.9M for Unlawful Marketing Practices
+  - Norwegian Company Receives €913k Fine for Data Subject Request Failures
+  - German DPA Shuts Down Federal Government's Facebook Fan Page
+  - Danish DPA Allows Paid Cookie Walls Under Certain Conditions
 
 # January 2023
 - [23-29 Jan 23](2023/january/290123.md):
