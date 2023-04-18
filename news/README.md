@@ -10,6 +10,12 @@
     - German Data Protection Conference issues decision on third country access to personal data
     - DPO dismissal is subject to labour law rules; conflict of interest to be understood in everyday language meaning
 
+- [13-19 Feb 23](2023/february/190223.md):
+    - ICO Publishes Tools and Guidelines for Children's Privacy in Gaming Industry
+    - CJEU AG's Opinion Clarifies Scope of Data Access Requests
+    - Austrian DPA Rules Against Legitimate Interest in Employee Email Monitoring
+    - UK Company Fined £200,000 for 1.7 Million Spam Calls
+
 # January 2023
 - [23-29 Jan 23](2023/january/290123.md):
     - Danish DPA's Confusing Guidance on Consent Confirmation Storage
