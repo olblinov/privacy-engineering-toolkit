@@ -10,6 +10,11 @@
   - Fastway Couriers Fined €15k for Data Leak
   - Hungarian Company Fined €25k for Consent-Less Cookies
 
+- [6-12 March 23](2023/march/120323.md):
+  - Finnish Ombudsman Fines Company €440k for Lack of Cooperation
+  - WhatsApp Updates Terms of Service Practices Following EC Inquiry
+  - Washington's My Health My Data Act Passes House
+
 # February 2023
 - [30 Jan - 5 Feb 23](2023/february/050223.md): 
   - CA Attorney General Targets Non-Compliant Mobile Apps for CCPA Violations
