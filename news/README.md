@@ -15,6 +15,15 @@
   - WhatsApp Updates Terms of Service Practices Following EC Inquiry
   - Washington's My Health My Data Act Passes House
 
+- [13-19 March 23](2023/march/190323.md):
+  - CJEU AG: Loan Repayment Calculation as Profiling
+  - German DPA Reports on 2022 Results
+  - Facebook Pixel and Business Tools Challenged in Austria
+  - Irish Bank Fined for Customer Data Leaks
+  - ICO's Privacy by Design Guide
+  - Taking a Photo of National ID during Delivery Deemed Excessive
+  - Nurse's Photo with Patient Data in Background Considered a Breach
+
 # February 2023
 - [30 Jan - 5 Feb 23](2023/february/050223.md): 
   - CA Attorney General Targets Non-Compliant Mobile Apps for CCPA Violations
