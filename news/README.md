@@ -24,6 +24,11 @@
   - Taking a Photo of National ID during Delivery Deemed Excessive
   - Nurse's Photo with Patient Data in Background Considered a Breach
 
+- [20-26 March 23](2023/march/260323.md):
+  - Kentucky Considers Own Consumer Privacy Law
+  - EUR 220k Fine for Breach Notification Delay
+  - Denmark Publishes Portal with Data Breach Statistics
+
 # February 2023
 - [30 Jan - 5 Feb 23](2023/february/050223.md): 
   - CA Attorney General Targets Non-Compliant Mobile Apps for CCPA Violations
