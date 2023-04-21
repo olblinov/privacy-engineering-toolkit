@@ -11,6 +11,11 @@ This repository contains a range of useful resources, including:
 # How to Use
 To use this repository, simply browse through the available resources and tools, and download or clone the ones that are most relevant to your needs. You can also contribute to this repository by submitting your own tools, resources, or best practices.
 
+You can also subscribe to the latest version of CSV file by importing data in Google Sheets via the IMPORTDATA function, e.g.:
+```
+=IMPORTDATA("https://raw.githubusercontent.com/olblinov/privacy-engineering-toolkit/main/taxonomy/personal-data-classification.csv")
+```
+
 # Contributing
 Contributions to this repository are welcome and encouraged. If you have a tool, resource, or best practice that you would like to share with the privacy engineering community, please feel free to submit a pull request.
 
