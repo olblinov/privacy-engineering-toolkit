@@ -1,3 +1,11 @@
+# April 2023
+- [27 Mar - 2 Apr 23](2023/april/020423.md):
+  - ChatGPT Banned in Italy
+  - CNIL Fines E-Scooter Company for Geotag Collection and Lack of Consent
+  - Germany Allows Paid Alternative to Tracking
+  - Growing US Privacy Legislation: Updates from NY, Washington
+  - ICO Guidance on Direct Marketing in Regulatory Communication Messages
+
 # March 2023
 - [27 Feb - 5 Mar 23](2023/march/050323.md):
   - EDPB Raises Concerns Over US Adequacy Mechanism Implementation
@@ -10,12 +18,12 @@
   - Fastway Couriers Fined €15k for Data Leak
   - Hungarian Company Fined €25k for Consent-Less Cookies
 
-- [6-12 March 23](2023/march/120323.md):
+- [6-12 Mar 23](2023/march/120323.md):
   - Finnish Ombudsman Fines Company €440k for Lack of Cooperation
   - WhatsApp Updates Terms of Service Practices Following EC Inquiry
   - Washington's My Health My Data Act Passes House
 
-- [13-19 March 23](2023/march/190323.md):
+- [13-19 Mar 23](2023/march/190323.md):
   - CJEU AG: Loan Repayment Calculation as Profiling
   - German DPA Reports on 2022 Results
   - Facebook Pixel and Business Tools Challenged in Austria
@@ -24,7 +32,7 @@
   - Taking a Photo of National ID during Delivery Deemed Excessive
   - Nurse's Photo with Patient Data in Background Considered a Breach
 
-- [20-26 March 23](2023/march/260323.md):
+- [20-26 MarMarch 23](2023/march/260323.md):
   - Kentucky Considers Own Consumer Privacy Law
   - EUR 220k Fine for Breach Notification Delay
   - Denmark Publishes Portal with Data Breach Statistics
