@@ -12,6 +12,14 @@
   - Proportionality in Access Request Considered by Belgian DPA
   - V2 of Guidelines on Personal Data Breach Notification Under GDPR Published
 
+- [10-16 Apr 23](2023/april/160423.md):
+  - EDPB Resolves Dispute on Chapter V in Meta Case; Creates Task Force on ChatGPT
+  - EU Parliament Civil Liberties Committee Adopts Resolution Against EU-US Data Privacy Framework
+  - Washington Waiting for Governor to Enact My Health My Data Act
+  - North Carolina and Indiana Join States with Looming Consumer Privacy Legislation
+  - Data Brokers Facing Potential Restrictions Under Newly Introduced CA Bill
+  - US Department of Health and Human Services Seeks to Amend HIPAA
+
 # March 2023
 - [27 Feb - 5 Mar 23](2023/march/050323.md):
   - EDPB Raises Concerns Over US Adequacy Mechanism Implementation
