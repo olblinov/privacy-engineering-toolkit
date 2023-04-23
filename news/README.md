@@ -6,6 +6,12 @@
   - Growing US Privacy Legislation: Updates from NY, Washington
   - ICO Guidance on Direct Marketing in Regulatory Communication Messages
 
+- [3-9 Apr 23](2023/april/090423.md):
+  - ChatGPT's World Regulatory Tour
+  - ICO Fines TikTok for Failure to Protect Children's Privacy
+  - Proportionality in Access Request Considered by Belgian DPA
+  - V2 of Guidelines on Personal Data Breach Notification Under GDPR Published
+
 # March 2023
 - [27 Feb - 5 Mar 23](2023/march/050323.md):
   - EDPB Raises Concerns Over US Adequacy Mechanism Implementation
