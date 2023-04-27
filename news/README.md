@@ -1,4 +1,13 @@
 # April 2023
+- [17-23 Apr 23](2023/april/230423.md):
+  - Irish DPC guidance on RoPA
+  - EDPB Right to data access guideline finalized
+  - DPO Questionnaire sent out as part of EDPB taskforce effort published
+  - US Online Privacy Act reintroduced into Congress
+  - £130k fine for 107M spam emails
+  - EUR 150k fine for unsecure authentication by phone in an NL bank
+  - Montana joins other states in consumer privacy bill introduction
+
 - [10-16 Apr 23](2023/april/160423.md):
   - EDPB Resolves Dispute on Chapter V in Meta Case; Creates Task Force on ChatGPT
   - EU Parliament Civil Liberties Committee Adopts Resolution Against EU-US Data Privacy Framework
@@ -23,7 +32,7 @@
 
 
 # March 2023
-- [20-26 Ma 23](2023/march/260323.md):
+- [20-26 Mar 23](2023/march/260323.md):
   - Kentucky Considers Own Consumer Privacy Law
   - EUR 220k Fine for Breach Notification Delay
   - Denmark Publishes Portal with Data Breach Statistics
@@ -48,7 +57,7 @@
   - German Procurement Chamber Overturns Disqualification Due to US Parent Company
   - Norway Expresses Chapter V Concerns Regarding Google Analytics
   - Irish Company Fined €460k for Data Availability Failure
-  - NOYB Files Complaints Over Cookie ID-Based Access Requests
+  - NOYB Files Complaints Over Cookie ID-Based Access Requestsz 
   - German Regulator Undecided on TrustPID Project
   - Fastway Couriers Fined €15k for Data Leak
   - Hungarian Company Fined €25k for Consent-Less Cookies
