@@ -1,4 +1,13 @@
 # April 2023
+- [24-30 Apr 23](2023/april/300423.md):
+  - CJEU Ruling: Deutsche Wohnen's Data Retention Case
+  - Ediscom Fined for Unlawful Marketing and Dark Patterns
+  - ChatGPT Introduces Option to Reject Data Usage for Training
+  - Spanish Company Fined for Inadequate Data Access Response
+  - Safe Harbour: A GDPR/CCPA Alternative?
+  - Montana's Consumer Data Privacy Act Awaits Governor's Signature
+  - Italian Company Fined for Inadequate Anonymization Techniques
+
 - [17-23 Apr 23](2023/april/230423.md):
   - Irish DPC guidance on RoPA
   - EDPB Right to data access guideline finalized
