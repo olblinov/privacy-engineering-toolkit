@@ -1,3 +1,13 @@
+# May 2023
+- [1-7 May 23](2023/may/070523.md):
+  - Sharing Pseudonymous Data: Third-Party Reidentification Ruling
+  - CJEU on Compensation for GDPR Breaches
+  - Data Access Requests: Adequate Responses Required
+  - Balancing Test for Data Security Appropriateness
+  - CJEU's AG on Joint Controllership and Processing Liability
+  - FTC Proposes Restrictions on Meta's Monetization of Children's Data
+  - Washington's My Health My Data Act to Take Effect in 2024
+
 # April 2023
 - [24-30 Apr 23](2023/april/300423.md):
   - CJEU Ruling: Deutsche Wohnen's Data Retention Case
