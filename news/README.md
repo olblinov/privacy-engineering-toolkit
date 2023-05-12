@@ -1,4 +1,10 @@
 # May 2023
+- [8-14 May 23](2023/may/140523.md):
+  - A nominal DPIA in case of processing of biometric data costs EUR 200k in Spain
+  - European Parliament votes against US adequacy
+  - EU Parliament's Internal Market and Civil Liberties committees approve AI Act draft
+  - Analysis of Washington's My Health My Data Act
+
 - [1-7 May 23](2023/may/070523.md):
   - Sharing Pseudonymous Data: Third-Party Reidentification Ruling
   - CJEU on Compensation for GDPR Breaches
