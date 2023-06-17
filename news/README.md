@@ -1,4 +1,10 @@
 # May 2023
+- [22-28 May 23](2023/may/280523.md):
+  - 🧑‍⚖️ Meta appeals fines over ad-related data processing to Ireland's High Court 
+  - 🍪 Microsoft fixes bing.com cookie banner after CNIL's €60m fine 
+  - 💰 NY fines medical management company $550k for data leak affecting 1.2 million consumers 
+  - 💳 NY fines sports goods company $300k for leaking 1.8M credit card details
+
 - [15-21 May 23](2023/may/210523.md):
   - 💸 Ireland hits Meta with a €1.2 billion fine and sets deadlines for data transfers 
   - 📱 Premom fined $100k for sharing health data with marketing companies 
