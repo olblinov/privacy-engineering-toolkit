@@ -1,5 +1,5 @@
 # May 2023
-- [15-22 May 23](2023/may/220523.md):
+- [15-21 May 23](2023/may/210523.md):
   - 💸 Ireland hits Meta with a €1.2 billion fine and sets deadlines for data transfers 
   - 📱 Premom fined $100k for sharing health data with marketing companies 
   - 💻 $350k settlement following healthcare data breach in the US 
