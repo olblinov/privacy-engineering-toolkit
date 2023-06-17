@@ -1,9 +1,9 @@
 # May 2023
 - [15-22 May 23](2023/may/220523.md):
-  - Ireland fines Meta €1.2 billion and sets deadlines for ceasing processing
-  - Ovulation tracking app Premom fined $100,000 for data sharing with third parties
-  - $350,000 settlement following 230,5k health data breach in the US
-  - CNIL Fines online health quiz company EUR 380k for cookie processing and bad security practices
+  - 💸 Ireland hits Meta with a €1.2 billion fine and sets deadlines for data transfers 
+  - 📱 Premom fined $100k for sharing health data with marketing companies 
+  - 💻 $350k settlement following healthcare data breach in the US 
+  - 🏥 CNIL fines online health quiz company EUR 380k for lack of consent and bad security practices
 
 - [8-14 May 23](2023/may/140523.md):
   - A nominal DPIA in case of processing of biometric data costs EUR 200k in Spain
