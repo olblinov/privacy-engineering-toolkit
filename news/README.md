@@ -1,4 +1,10 @@
 # June 2023
+- [12-18 Jun 23](2023/june/180623.md):
+  - 🎶 Spotify fined €4.98M for unclear responses to access requests 
+  - 🔮 Clairvoyance company fined €150k for lack of consent on storing credit cards & other GDPR violations 
+  - 🇪🇸 Spain presents online tool for impact assessments 
+  - 📞 Italy fines companies EUR 8.5M for calling people on do-not-call register
+
 - [5-11 Jun 23](2023/june/110623.md):
   - 📦 UPS fined €140k for delivering package to wrong address and data breach
 
