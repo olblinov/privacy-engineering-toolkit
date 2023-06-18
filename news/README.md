@@ -1,3 +1,9 @@
+# June 2023
+- [29 May - 4 Jun 23](2023/june/040623.md):
+  - 📑 EDPB publishes Case Law Digest on right to object & right to erasure 
+  - 🔍 Good privacy practices lead UK High Court to strike out Google & Deepmind class action lawsuit 
+  - 💳 Bank's automated credit rejection results in €300k fine for lack of transparency
+
 # May 2023
 - [22-28 May 23](2023/may/280523.md):
   - 🧑‍⚖️ Meta appeals fines over ad-related data processing to Ireland's High Court 
