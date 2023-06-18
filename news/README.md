@@ -1,4 +1,7 @@
 # June 2023
+- [5-11 Jun 23](2023/june/110623.md):
+  - 📦 UPS fined €140k for delivering package to wrong address and data breach
+
 - [29 May - 4 Jun 23](2023/june/040623.md):
   - 📑 EDPB publishes Case Law Digest on right to object & right to erasure 
   - 🔍 Good privacy practices lead UK High Court to strike out Google & Deepmind class action lawsuit 
