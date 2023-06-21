@@ -418,7 +418,7 @@ Appendix 2 - Spotify's information pursuant to Article 15 of the Data Protection
 Appendix 3 – Information on payment of penalty fee
 
 
-# Danish
+# Swedish
 
 # Integritetsskyddsmyndighetens beslut
 ## Spotifys generella rutiner för hantering av begäran om tillgång
