@@ -1,4 +1,12 @@
 # June 2023
+- [19-25 Jun 23](2023/june/250623.md):
+  - 🚨 Criteo Fined €40M for GDPR Violations by CNIL
+  - ☀️ EU-US Data Transfer Pact Expected "by the Summer"
+  - 🧐 CJEU Limits Data Access Rights in Employee Bank Account Case
+  - 💻 Dutch Government Reviews AWS with Low Privacy Risks
+  - 🔎 ICO Updates Privacy Enhancing Tech Guide
+  - 🤖 CEDPO Opinion on AI Act's Impact on DPOs
+
 - [12-18 Jun 23](2023/june/180623.md):
   - 🎶 Spotify fined €4.98M for unclear responses to access requests 
   - 🔮 Clairvoyance company fined €150k for lack of consent on storing credit cards & other GDPR violations 
