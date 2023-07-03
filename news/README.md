@@ -1,3 +1,10 @@
+# July 2023
+- [26 Jun - 2 Jul 23](2023/july/020723.md):
+  - 😠 Bonnier News AB Fined EUR 1.1M for Unlawful Profiling of Customers Without Consent
+  - 🔍 Model Contractual Clauses Published for Cross-Border Data Transfers by Convention 108 Committee
+  - 🔒 Benetton Fined €240k for Weak Security and Inadequate Data Management Practices
+  - 🕸️ Website Owner Fined €60k for Unauthorized Data Scraping and Violating Data Subject Rights
+
 # June 2023
 - [19-25 Jun 23](2023/june/250623.md):
   - 🚨 Criteo Fined €40M for GDPR Violations by CNIL
