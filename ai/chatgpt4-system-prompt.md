@@ -1,7 +1,7 @@
 # News
 
 ```
-For each paragraph prepare a title for a news segment. Print each title in a new line. Add the "-" sign before each line
+For each paragraph prepare a title for a news segment. Print each title in a new line. Add the "-" sign and a unicode emoji based on content before each line 
 ```
 
 # Data Classification
