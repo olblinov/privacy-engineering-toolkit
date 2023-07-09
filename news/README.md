@@ -1,4 +1,11 @@
 # July 2023
+
+- [3-9 Jul 23](2023/july/090723.md):
+  - ✅ EU Member States vote YES on EU-US Data Privacy Framework
+  - ⚖️ CJEU's finds Meta's legal basis for ads can only be consent
+  - 💰 Sweden's €1M enforcement against use of GA
+  - 📊 IAPP & KPMG Privacy Risk Study 2023
+
 - [26 Jun - 2 Jul 23](2023/july/020723.md):
   - 😠 Bonnier News AB Fined EUR 1.1M for Unlawful Profiling of Customers Without Consent
   - 🔍 Model Contractual Clauses Published for Cross-Border Data Transfers by Convention 108 Committee
