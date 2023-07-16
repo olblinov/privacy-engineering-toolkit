@@ -1,5 +1,9 @@
 # July 2023
 
+- [10-16 Jul 23](2023/july/160723.md):
+  - ✅ EU-US Data Privacy Framework Adequacy Decision Announced by EC
+  - 🍪 German DPA Invalidates Payment or Cookie Tracking Choice
+
 - [3-9 Jul 23](2023/july/090723.md):
   - ✅ EU Member States vote YES on EU-US Data Privacy Framework
   - ⚖️ CJEU's finds Meta's legal basis for ads can only be consent
