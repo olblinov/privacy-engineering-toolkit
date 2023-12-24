@@ -1,5 +1,13 @@
 # July 2023
 
+- [24-30 Jul 23](2023/july/300723.md):
+  - 📱 France takes a step towards mobile app regulation
+
+- [17-23 Jul 23](2023/july/230723.md):
+  - 🛡️ Norway Cracks Down on Behavioral Marketing & Profiling in Meta Products
+  - 💰 EUR 1M Fine for Misleading Privacy Notice Designation
+  - 🩺 Mixup in Medical Records Leads to EUR 10k Penalty
+
 - [10-16 Jul 23](2023/july/160723.md):
   - ✅ EU-US Data Privacy Framework Adequacy Decision Announced by EC
   - 🍪 German DPA Invalidates Payment or Cookie Tracking Choice
