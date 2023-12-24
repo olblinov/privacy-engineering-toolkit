@@ -5,6 +5,7 @@ This git repository is dedicated to providing useful tools and resources to priv
 This repository contains a range of useful resources, including:
 - [News](news/)
 - [Personal data taxonomy](taxonomy/personal-data-classification.csv)
+- [Privacy risks impacts and likelihoods scales](pia/impact-and-likelihood-scores.md)
 - [Data retention periods by 3rd party tools](retention/retention-by-tool.csv)
 - [Data breach fine calculator](fines/data-breach-calculation.csv)
 
