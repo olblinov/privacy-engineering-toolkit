@@ -1,3 +1,25 @@
+# October 2023
+- [25 Sep - 1 Oct 23](2023/october/011023.md):
+  - 💰 Company fined €200k for intrusive employee data processing
+  - 👥 Data subjects lack standing to challenge controller's DPO decision
+
+# September 2023
+- [18-24 Sep 23](2023/september/240923.md):
+  - 📱 NOYB files complaints against Fnac, SeLoger, and MyFitnessPal for data sharing without consent
+
+- [11-17 Sep 23](2023/september/170923.md):
+  - 💰 TikTok hit with massive fine for children's data processing
+  - 🔒 Updated HIPAA Security Risk Assessment Tool released
+
+- [4-10 Sep 23](2023/september/100923.md):
+  - 🚫 Norwegian court upholds ban on profiling in Meta's products
+  - 💳 Italian company fined for fidelity card data breach
+  - 📜 ISO releases pricey standard on consent records management
+ 
+- [28 Aug - 3 Sep 23](2023/september/030923.md):
+  - 🔒 Norwegian DPA provides guidance on employee monitoring
+  - 📢 NOYB files complaint against Fitbit over data transfers
+
 # August 2023
 - [14-27 Aug 23](2023/august/270823.md):
   - 🔐 Ireland demands Airbnb to delete user IDs after verification
