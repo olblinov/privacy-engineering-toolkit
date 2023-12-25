@@ -1,5 +1,16 @@
-# July 2023
+# August 2023
+- [14-27 Aug 23](2023/august/270823.md):
+  - 🔐 Ireland demands Airbnb to delete user IDs after verification
+  - 💸 Spanish company fined for lack of DPA compliance
 
+- [7-13 Aug 23](2023/august/130823.md):
+  - 🚖 Finnish DPA restricts Yango taxi service data transfers to Russia 
+
+- [31 Jul - 6 Aug 23](2023/august/060823.md):  
+  - 🍪 France approves Google's updated cookie banner
+  - 🔒 Emailing unencrypted documents violates privacy and security regulations
+
+# July 2023
 - [24-30 Jul 23](2023/july/300723.md):
   - 📱 France takes a step towards mobile app regulation
 
