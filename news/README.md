@@ -1,4 +1,12 @@
 # October 2023
+- [8-31 Oct 23](2023/october/311023.md):
+  - 🔍 EDPB Focuses on Right to Access in 2024 Coordinated Action
+  - 💰 France Fines Groupe Canal + EUR 600k for Direct Marketing Violations
+
+- [2 - 7 Oct 23](2023/october/071023.md):
+  - 🔒 Norwegian Privacy Board Stresses Importance of Informed Consent Beyond Privacy Notice Disclosure
+  - 🍪 EUR 27k Fine Issued for Use of Cookies Without Consent to Meta & Google
+
 - [25 Sep - 1 Oct 23](2023/october/011023.md):
   - 💰 Company fined €200k for intrusive employee data processing
   - 👥 Data subjects lack standing to challenge controller's DPO decision
