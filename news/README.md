@@ -1,3 +1,11 @@
+# November 2023 
+[1-30 Nov 23](2023/november/301123.md):
+- 💻 EDPB Guidelines on scope of ePrivacy cookie rules
+- 📢 Everyone's very concerned with Meta's paid option
+- 🏨 Irish DPA reviews Airbnb photo id verification processes
+- 🍪 Google & Meta ordered to offer granular choice to cookies as well as full list of cookies
+- 📞 ICO suggests use of centralized phone numbers for couriers
+
 # October 2023
 - [8-31 Oct 23](2023/october/311023.md):
   - 🔍 EDPB Focuses on Right to Access in 2024 Coordinated Action
