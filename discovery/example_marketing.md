@@ -5,20 +5,21 @@ sequenceDiagram
     end
 
     box User's device
-    participant F as Frontend
-    participant P as Pixel (.js file)
+    participant F as Frontend<br>+ Pixel (.js file)
+
     end
 
-    
-    
+
     box Ad provider
+    participant C as Campaign
     participant PA as Pixel API
     participant SA as S2S API
     end
 
-    F->>B: Functional traffic
-    P->>PA: Pixel events<br/>(cookies, HTTP headers,<br/>event contents)
-    B->>SA: (1) Server-to-server events (email, name, address etc., event contents)<br>(2) Audiences (device identifiers)
+    C->>F: Ad click<br>+ UTM label AND/OR click_id
+    F->>B: Functional traffic<br>+ UTM label AND/OR click_id
+    F->>PA: Pixel events<br/>(cookies, HTTP headers,<br/>event contents)
+    B->>SA: (1) Server-to-server events (click_id, email, name, address etc., event contents)<br>(2) Audiences (device identifiers)
 
     
 ```
