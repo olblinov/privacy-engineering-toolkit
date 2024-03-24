@@ -18,7 +18,7 @@ sequenceDiagram
 
     F->>B: Functional traffic
     P->>PA: Pixel events<br/>(cookies, HTTP headers,<br/>event contents)
-    B->>SA: (1) Server-to-server events (email, name, address etc., **event contents**a)<br>(2) Audiences (device identifiers)
+    B->>SA: (1) Server-to-server events (email, name, address etc., event contents)<br>(2) Audiences (device identifiers)
 
     
 ```
