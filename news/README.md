@@ -1,3 +1,16 @@
+# December 2023
+[1-31 Dec 23](2023/december/311223.md):
+- 🌐⚖️ CJEU clarifies intent and fines under GDPR, plus joint controllership details
+- 🔐🛡️ CJEU rules that fear of data misuse can qualify as non-material damage
+- 📊🤖 CJEU defines automated decision-making and compliance for Schufa's scoring
+- 🚫📱 EDPB issues binding decision against Meta’s behavioral advertising practices in the EEA
+- 🇺🇸🕵️ TikTok ban in Montana blocked by District Court citing First Amendment concerns
+- 🏥💸 New York AG settles with NewYork-Presbyterian Hospital for $300,000 over health data misuse
+- 🍪🇧🇪 Belgian DPA resolves cookie banner design issue, requiring a "refuse all" button
+- 🌐🛑 California reviews forcing websites to honor browser opt-out signals
+- 🧒📜 FTC proposes COPPA updates to strengthen children's privacy protections
+- 🔏📚 NIST publishes guidelines on differential privacy, highlighting challenges and best practices
+
 # November 2023 
 [1-30 Nov 23](2023/november/301123.md):
 - 💻 EDPB Guidelines on scope of ePrivacy cookie rules
