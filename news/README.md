@@ -1,3 +1,13 @@
+# January 2024
+[1-30 Jan 24](2024/january/300124.md):
+- 📦💼 CNIL fines Amazon France €32 million for illegal employee data monitoring and retention
+- 🍪🛡️ Austrian DPA sets criteria for "pay or okay" cookie consent, ensuring compliance and fairness
+- 📍🔍 FTC charges X-Mode and Outlogic with illegally selling sensitive location data
+- 🚫🌍 FTC bans InMarket from selling precise consumer location data due to privacy violations
+- 📊🇫🇷 France fines NS Cards €105k for improper data retention and cookie practices
+- 📋💳 ICS fined €150k for incomplete DPIA affecting 1.5 million people
+- 💼🇧🇪 Black Tiger Belgium fined €175k for lack of transparency in data brokerage practices
+
 # December 2023
 [1-31 Dec 23](2023/december/311223.md):
 - 🌐⚖️ CJEU clarifies intent and fines under GDPR, plus joint controllership details
