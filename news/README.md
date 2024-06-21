@@ -1,3 +1,19 @@
+# February
+[1-28 Feb 24](2024/february/280224.md):
+- 🚖💶 Uber fined €10 million for privacy violations related to data access, retention, and TIA controls
+- 🔄⚖️ FTC warns that quietly changing terms could be unfair or deceptive
+- 🍔📈 DoorDash fined $375k for selling customer data without notice or opt-out
+- 🔍💸 Avast fined $16.5M and banned from selling browsing data for failing to anonymize it
+- 📜🛡️ EDPB launches coordinated enforcement on the right of access
+- 🇪🇸💥 Record €6.1M fine in Spain for data leak affecting a thousand people
+- 🔐📘 NIST publishes Cybersecurity Framework 2.0 to help organizations manage risks
+- 🏢📝 EDPB clarifies 'main establishment' for the One-Stop-Shop mechanism
+- 🏥🔍 Capio A/S fined €200k for lack of third-party management system
+- 🕰️💼 French company fined €100k for inaccurate data retention period disclosure
+- 🇮🇹🚨 Italian company fined €200k for total GDPR non-compliance affecting over a million users
+- 🛡️📚 NIST publishes Cybersecurity Resource Guide for HIPAA Security Rule
+- 📄⚖️ Berlin court rules reviewing 5,000 pages for data access not disproportionate
+
 # January 2024
 [1-30 Jan 24](2024/january/300124.md):
 - 📦💼 CNIL fines Amazon France €32 million for illegal employee data monitoring and retention
