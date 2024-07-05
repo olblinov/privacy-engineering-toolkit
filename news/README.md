@@ -1,3 +1,12 @@
+# March
+[1-31 Mar 24](2024/march/310324.md):
+- 🚨 U.S. Department of Health and Human Services (HHS) clarifies use of tracking tech by HIPAA Covered Entities
+- 🔍 CJEU rules on matters of personal data definition and joint controllership of IAB Europe (TCF operator)
+- ❗ Collection of excessive data and excessive storage periods lead to EUR 856k fine in Finland
+- 🛑 CNIL clarifies rules that a button for consent and hyperlink for rejection create invalid legal basis 
+- ⚠️ EDPS says that the EC cannot use MS 365 without corrective measures
+- ✅ CJEU confirmed that a DPA can order data to be deleted 
+
 # February
 [1-28 Feb 24](2024/february/280224.md):
 - 🚖💶 Uber fined €10 million for privacy violations related to data access, retention, and TIA controls
