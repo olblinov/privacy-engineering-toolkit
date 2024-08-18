@@ -1,3 +1,12 @@
+# April
+[1-30 Apr 24](2024/april/300424.md):
+- 🚨 FTC Bans Alcohol Treatment Service from Selling Health Data
+- 💸 Cerebral Fined $7.1M for Misuse of Sensitive Health Data
+- 📊 EDPB Calls for Real Choices in "Consent or Pay" Data Models
+- ⚖️ CJEU Clarifies Rules on GDPR Compensation for Data Breaches
+- 🛒 CJEU AG: Amazon OTC-Medicine Sales Don't Constitute Health Data
+- 🔒 CJEU AG: Public Sensitive Data Cannot Be Used for Targeted Ads
+
 # March
 [1-31 Mar 24](2024/march/310324.md):
 - 🚨 U.S. Department of Health and Human Services (HHS) clarifies use of tracking tech by HIPAA Covered Entities
