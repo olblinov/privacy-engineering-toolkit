@@ -1,10 +1,18 @@
-# May
+# June 2024
+[1-30 June 24](2024/june/300624.md):
+- 💶 EUR 1.3M Fine Against Avanza Bank for Meta Pixel Data Breach
+- 🛑 Meta Halts EU Data Use for AI Training After Regulatory Pressure
+- 🇮🇹 Italy Fines Meta EUR 3.5M for Consumer Law Violations on Instagram
+- ⚖️ CJEU Rulings Define Scope for GDPR Non-Material Damages
+- 🛡️ Protecting Americans' Data from Foreign Adversaries Act of 2024
+
+# May 2024
 [1-31 May 24](2024/may/310524.md):
 - 🛠️ Spanish DPA Launches GDPR Risk Management Tool and Guidelines
 - 🇺🇸 American Privacy Rights Act Progresses Toward Stricter Data Regulations
 - 📋 CNIL Criticizes TAGADAMEDIA Consent Forms for Failing GDPR Standards
 
-# April
+# April 2024
 [1-30 Apr 24](2024/april/300424.md):
 - 🚨 FTC Bans Alcohol Treatment Service from Selling Health Data
 - 💸 Cerebral Fined $7.1M for Misuse of Sensitive Health Data
@@ -13,7 +21,7 @@
 - 🛒 CJEU AG: Amazon OTC-Medicine Sales Don't Constitute Health Data
 - 🔒 CJEU AG: Public Sensitive Data Cannot Be Used for Targeted Ads
 
-# March
+# March 2024
 [1-31 Mar 24](2024/march/310324.md):
 - 🚨 U.S. Department of Health and Human Services (HHS) clarifies use of tracking tech by HIPAA Covered Entities
 - 🔍 CJEU rules on matters of personal data definition and joint controllership of IAB Europe (TCF operator)
@@ -22,7 +30,7 @@
 - ⚠️ EDPS says that the EC cannot use MS 365 without corrective measures
 - ✅ CJEU confirmed that a DPA can order data to be deleted 
 
-# February
+# February 2024
 [1-28 Feb 24](2024/february/280224.md):
 - 🚖💶 Uber fined €10 million for privacy violations related to data access, retention, and TIA controls
 - 🔄⚖️ FTC warns that quietly changing terms could be unfair or deceptive
