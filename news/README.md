@@ -1,3 +1,9 @@
+# May
+[1-31 May 24](2024/may/310524.md):
+- 🛠️ Spanish DPA Launches GDPR Risk Management Tool and Guidelines
+- 🇺🇸 American Privacy Rights Act Progresses Toward Stricter Data Regulations
+- 📋 CNIL Criticizes TAGADAMEDIA Consent Forms for Failing GDPR Standards
+
 # April
 [1-30 Apr 24](2024/april/300424.md):
 - 🚨 FTC Bans Alcohol Treatment Service from Selling Health Data
