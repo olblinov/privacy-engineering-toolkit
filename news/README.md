@@ -1,3 +1,10 @@
+# August 2024
+[1-30 August 24](2024/august/300824.md):
+- ⚖️ EU AI Act Officially Enters Into Force: Key Regulations Begin
+- 🚖 Dutch Regulators Fine Uber €290M for Mishandling Driver Data Transfers to US
+- 🔒 FTC Sues TikTok for Flagrant COPPA Violations and Ineffective Age Gate
+- 🏥 Swedish Pharmacies Fined Over €4M for Misconfigured Meta Pixels Exposing Sensitive Health Data
+
 # July 2024
 [1-31 July 24](2024/july/310724.md):
 - 🔍 Google Rethinks Third-Party Cookie Ban Amidst UK Pressure
