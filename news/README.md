@@ -1,3 +1,12 @@
+# July 2024
+[1-31 July 24](2024/july/310724.md):
+- 🔍 Google Rethinks Third-Party Cookie Ban Amidst UK Pressure
+- 🚫 Vinted Hit with €2.38M Fine for Shadow-Blocking Users
+- 💸 FTC Seeks $5M Fine for NGL Labs Over AI Deception
+- 🕵️ TikTok Fined £1.875M for Inaccurate Parental Control Data
+- 🍪 Pharmacy Penalized €600k for Sensitive Cookie Violations
+- 💼 EDPB’s “Pay-or-Consent” Model Sparks Industry Debate
+
 # June 2024
 [1-30 June 24](2024/june/300624.md):
 - 💶 EUR 1.3M Fine Against Avanza Bank for Meta Pixel Data Breach
