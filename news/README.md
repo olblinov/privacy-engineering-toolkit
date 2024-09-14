@@ -1,3 +1,14 @@
+# September 2024
+[1-15 September 24](2024/september/150924.md):
+- ⚖️ EU to Develop SCCs for Third-Country Data Importers Subject to GDPR
+- 💊 French CNIL Fines CEGEDIM SANTÉ €800k for Pseudonymous Health Data Processing
+- 📧 Belgian Company Fined €8k for E-Mail Spam to a Single Data Subject
+- 🍪 Mediahuis Fined €25k/Day for Deceptive Cookie Banner Configuration
+- 🤖 CJEU AG on Automated Decision-Making and Trade Secrets Disclosure
+- 🧑‍🤝‍🧑 CJEU Rules Partners Cannot Access Contact Details of Other Partners in Partnership
+- 🔐 Guidance Issued for Data Breach Notifications to Data Subjects
+- 🛑 Belgian Company Fined €45k for Excessive Biometric Data Use in Employment Context
+
 # August 2024
 [1-30 August 24](2024/august/300824.md):
 - ⚖️ EU AI Act Officially Enters Into Force: Key Regulations Begin
