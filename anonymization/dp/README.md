@@ -8,6 +8,8 @@
 - [How your data is secured(by a coin toss)](https://towardsdatascience.com/how-your-data-is-secured-by-a-coin-toss-c933f9e13d4a)
 - [Local vs Global Differential Privacy](https://blog.openmined.org/basics-local-differential-privacy-vs-global-differential-privacy/)
 - [Google RAPPOR](https://github.com/google/rappor/tree/master?tab=readme-ov-file)
+  - [RAPPOR & Diffrential Privacy](https://florian.github.io/differential-privacy/)
+  - [Building a RAPPOR with the Unknown: Privacy-Preserving Learning of Associations and Data Dictionaries](https://arxiv.org/pdf/1503.01214v1.pdf)
 - [Differential privacy in (a bit) more detail](https://desfontain.es/privacy/differential-privacy-in-more-detail.html)
 
 Suppose you want to do a survey to know how many people are illegal drug users. If you naively go out and ask people whether they're using illegal drugs, many will lie to you. So you devise the following mechanism. The participants no longer directly answer the question "have you consumed illegal drugs in the past week?". Instead, each of them will flip a coin, without showing it to you.

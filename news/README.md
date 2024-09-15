@@ -127,7 +127,7 @@
 
 - [4-10 Sep 23](2023/september/100923.md):
   - 🚫 Norwegian court upholds ban on profiling in Meta's products
-  - 💳 Italian company fined for fidelity card data breach
+  - 💳 Italian company fined for fidelity card privacy breach
   - 📜 ISO releases pricey standard on consent records management
  
 - [28 Aug - 3 Sep 23](2023/september/030923.md):

@@ -12,7 +12,7 @@ flowchart TB
 # How is likelihood calculated?
 
 ## Calculate threat event occurrence
-TABLE G-2: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT INITIATION (ADVERSARIAL)
+**TABLE G-2: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT INITIATION (ADVERSARIAL)**
 
 | Qualitative Values | Semi-Quantitative Values | Score | Description                                              |
 |--------------------|--------------------------|-------|----------------------------------------------------------|
@@ -33,7 +33,7 @@ TABLE G-3: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT OCCURRENCE (NON-ADVER
 | Very Low           | 0-4                       | 0     | Error, accident, or act of nature is highly unlikely to occur; or occurs less than once every 10 years. |
 
 ## Calculate vulnerability
-TABLE G-4: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT RESULTING IN ADVERSE IMPACTS
+**TABLE G-4: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT RESULTING IN ADVERSE IMPACTS**
 
 | Qualitative Values | Semi-Quantitative Values | Score | Description                                                                                 |
 |--------------------|--------------------------|-------|---------------------------------------------------------------------------------------------|
@@ -44,7 +44,7 @@ TABLE G-4: ASSESSMENT SCALE – LIKELIHOOD OF THREAT EVENT RESULTING IN ADVERSE 
 | Very Low           | 0-4                       | 0     | If the threat event is initiated or occurs, it is highly unlikely to have adverse impacts.   |
 
 ## Calculate likelihood
-TABLE G-5: ASSESSMENT SCALE – OVERALL LIKELIHOOD
+**TABLE G-5: ASSESSMENT SCALE – OVERALL LIKELIHOOD**
 
 Likelihood of Threat Event Initiation or Occurrence - 1st column
 
@@ -61,7 +61,7 @@ Likelihood Threat Events Result in Adverse Impacts - 1st row
 
 # How is impact calculated?
 ## Types of harm
-TABLE H-2: EXAMPLES OF ADVERSE IMPACTS
+**TABLE H-2: EXAMPLES OF ADVERSE IMPACTS**
 
 | Type of Impact          | Impact                                                                                                                                                                                                                                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -72,7 +72,7 @@ TABLE H-2: EXAMPLES OF ADVERSE IMPACTS
 | **HARM TO THE NATION**   | Damage to or incapacitation of a critical infrastructure sector.<br>Loss of government continuity of operations.<br>Relational harms.<br>Damage to trust relationships with other governments or with nongovernmental entities.<br>Damage to national reputation (and hence future or potential trust relationships).<br>Damage to current or future ability to achieve national objectives.<br>Harm to national security.|
 
 ## Calculate impact
-TABLE H-3: ASSESSMENT SCALE – IMPACT OF THREAT EVENTS
+**TABLE H-3: ASSESSMENT SCALE – IMPACT OF THREAT EVENTS**
 
 | Qualitative Values | Semi-Quantitative Values | Score | Description                                                                                                                                                                                                                                                                                                             |
 |--------------------|--------------------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +84,8 @@ TABLE H-3: ASSESSMENT SCALE – IMPACT OF THREAT EVENTS
 
 # How is risk calculated?
 ## Risk Matrix
-TABLE I-2: ASSESSMENT SCALE – LEVEL OF RISK (COMBINATION OF LIKELIHOOD AND IMPACT)
+**TABLE I-2: ASSESSMENT SCALE – LEVEL OF RISK (COMBINATION OF LIKELIHOOD AND IMPACT)**
+
 Likelihood - 1st column
 
 Impact - 1st row
@@ -97,7 +98,7 @@ Impact - 1st row
 | **Very Low**                                                         | Very Low  | Very Low | Very Low | Low      | Low       |
 
 ## Risk Description
-TABLE I-3: ASSESSMENT SCALE – LEVEL OF RISK
+**TABLE I-3: ASSESSMENT SCALE – LEVEL OF RISK**
 
 | Qualitative Values | Semi-Quantitative Values | Score | Description                                                                                                                                                                                            |
 |--------------------|--------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
