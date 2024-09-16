@@ -26,6 +26,7 @@ Plaintiff, the United States of America, acting upon notification and on behalf 
 **4.** GoodRx repeatedly violated these promises, however, by sharing sensitive user information with third-party advertising companies and platforms (“Advertising Platforms”) like Facebook, Google, and Criteo, and other third parties like Branch and Twilio.  The information GoodRx shared included its users’ prescription medications and personal health conditions, personal contact information, and unique advertising and persistent identifiers. GoodRx shared this information without providing notice to its users or seeking their consent. Moreover, GoodRx permitted third parties that received users’ personal health information to use and profit from the information for their own business purposes.
 
 **5.** And, in the case of Facebook, GoodRx did more than just share its users’ sensitive information.  GoodRx exploited the information shared with Facebook to target GoodRx users with advertisements on Facebook and Instagram.  Using Facebook’s ad targeting platform, GoodRx matched specific users to their personal health information and designed campaigns that targeted users with advertisements based on their health information—all of which was visible to Facebook. These campaigns featured advertisements relating to specific medications (e.g., Viagra), or specific health conditions (e.g., erectile dysfunction) that GoodRx believed would be of interest to them, such as the one in Exhibit A below:
+
 ![alt text](assets/goodrx-image.png)
 
 ---
@@ -125,7 +126,9 @@ _"By providing your personal information, you agree to let us use such personal 
 **36.** GoodRx’s privacy policy representations described above were false and deceptive. In fact, since 2017, GoodRx has shared its users’ personal and health information with Advertising Platforms and other third parties in violation of its promises, including for targeted advertising, without providing notice or obtaining affirmative express consent.
 
 **37.** Moreover, between April and September 2019, GoodRx displayed a seal at the bottom of the HeyDoctor homepage attesting to its purported compliance with the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), a statute that sets forth privacy and information security protections for health data. The seal, which bore the Caduceus symbol often associated with the medical field, advertised the following statement: “HIPAA Secure. Patient Data Protected.” In advertising a HIPAA seal, GoodRx signaled to users that it is a HIPAA-covered entity, and that its practices complied with HIPAA’s requirements. Exhibit B shows the HIPAA seal that GoodRx displayed.
+
 ![alt text](assets/goodrx-image-1.png)
+
 ---
 
 ### **B. For Years, GoodRx Shared Sensitive Information About Millions of Users with Advertising Platforms or Other Third Parties**

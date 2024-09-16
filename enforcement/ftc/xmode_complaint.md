@@ -68,7 +68,7 @@ The Federal Trade Commission, having reason to believe that X-Mode Social, Inc.,
 
 **15.**	X-Mode does not restrict the collection of location data from sensitive locations such as healthcare facilities, churches, and schools.  X-Mode contractually restricts how its customers may use location data. For example, one such restriction is that its customers cannot:
 
-![alt text](assets/xlogic-image.png)
+![alt text](assets/xmode-image.png)
 
 tbc X-Modc Data (alone or combined with other data) to associate any user, device or individual with any venue that is related to healthcare, addiction, pregnancy or pregnancy termination, or sexual oricntatioD, or to otherwise infer an interest or characteristic related to any of the foregoing;
 
@@ -97,10 +97,12 @@ tbc X-Modc Data (alone or combined with other data) to associate any user, devic
 **24.**	Although X-Mode primarily obtains its location data through third parties, XMode published two of its own apps (Drunk Mode and Walk Against Humanity) and has collected consumers’ location data from those apps.  As required by iOS and Android policies, X-Mode provided consumers with in-app explanations requesting permission to collect the consumers’ location data and purporting to provide the uses for the information.  X-Mode also published a privacy notice on its website, purporting to provide consumers with information about the company’s use of their personal information, including location data.
 
 **25.**	However, until at least August 2020, the notices provided by X-Mode directly to consumers failed to fully disclose the purposes for which consumers’ location data would be used.  For example, a notice displayed in X-Mode’s “Drunk Mode” app used language suggesting that consumers’ location data would be used solely for “ad personalization and location-based analytics including ad performance, market research, and traffic and health research”:
-![alt text](assets/xlogic-image-1.png)
+
+![alt text](assets/xmode-image-1.png)
 
 **26.**	Likewise, in X-Mode’s privacy policy published on or about May 17, 2020, XMode identifies “customers” with which X-Mode shares consumers’ information:
-![alt text](assets/xlogic-image-2.png)
+
+![alt text](assets/xmode-image-2.png)
 
 **27.**	While X-Mode’s consumer notices disclosed certain commercial uses of consumer location data, X-Mode failed to inform consumers that it would be selling data to government contractors for national security purposes.
 
@@ -121,7 +123,8 @@ Rather, X-Mode obtains most of its location data from third parties, including a
 **33.**	Because X-Mode obtains most of its location data from third party apps, the company relies on these third parties to obtain informed consumer consent to collect, use, or sell location data.  X-Mode has provided third party app publishers incorporating its SDK with recommended language for consumer disclosures in both apps and privacy policies.
 
 **34.**	For example, one consumer consent notice that X-Mode provided to third-party app publishers stated that consumers’ location data would be shared “with third parties to help them conduct ad personalization and location-based analytics:”
-![alt text](assets/xlogic-image-3.png)
+
+![alt text](assets/xmode-image-3.png)
 
 
 **35.**	This notice and other notices provided by X-Mode to third-party app publishers fail to fully inform consumers how their data would be used and that their geolocation data would be provided to government contractors for national security purposes.
@@ -137,8 +140,10 @@ X-Mode Has Targeted Consumers Based on Sensitive Characteristics
 **38.**	As discussed above, X-Mode licenses audience segments, categories of MAIDs based on shared characteristics, for use by third parties.  X-Mode has a catalogue of audience segments that it provides standard to the marketplace.  The company also created custom audience segments for customers with special requests.
 
 **39.**	X-Mode has created custom audience segments that were based on sensitive characteristics of consumers.  X-Mode licensed these custom audience segments to a third party for advertising or marketing purposes.  Specifically, X-Mode entered into an agreement with a privately held clinical research company to license custom audience segments of consumers who had visited Cardiology, Endocrinology, or Gastroenterology offices and visited a pharmacy or drugstore in the Columbus, Ohio area and consumers that had visited a specialty infusion center.  The purchase order from the organization explained the categorization and use as follows:
-![alt text](assets/xlogic-image-4.png)
-![alt text](assets/xlogic-image-5.png)
+
+![alt text](assets/xmode-image-4.png)
+
+![alt text](assets/xmode-image-5.png)
 
 ##  X-Mode’s Business Practices Cause or are Likely to Cause Substantial Injury to Consumers
 

@@ -43,27 +43,37 @@ The Federal Trade Commission, having reason to believe that Avast Limited, a lim
 ## Respondents' Browser Extensions
 
 **12.**	Respondents described the Avast Extensions in the Chrome Web Store as protecting privacy and security. A consumer that searched for "Avast Online Security" in the Chrome Web Store could install the extension without viewing any disclosures about Respondents' collection or sale of browsing info1matio11 or seeing a link to Avast's privacy policy. The Avast Online Security extension could be installed using the "Add to Chrome" button on the search result page, as shown here:
+
 ![alt text](assets/image_avast_1.png)
+
 The description for the AVG Online Security results page was the same as for the Avast Online Secmi.ty results page.
 
 **13.**	For consumers who clicked past the search results page and viewed the info1matio11page for each Avast Extension, Respondents failed to disclose any infonnation about their collection or sale of browsing info1mation. Indeed, Respondents affi1matively represented that the extensions would decrease tracking on the Internet, as shown on the inf01mation page for the Avast Online Security extension:
+
 ![alt text](assets/image_avast_2.png)
+
 The information page for AVG Online Security was identical to the inf01mation page for Avast Online Security. In fact, as described below at Paragraphs 18-30, the Avast Extensions tracked consumers' browsing activities more extensively than could ordinaiy tracking cookies.
 
 ## Respondents' Mobile Software
 
 **14.**	The info1mation page for Avast Mobile Software also affi1matively represented that the product would enhance consumer privacy while browsing the Internet:
+
 ![alt text](assets/image_avast_3.png)
+
 These disclosures equate apps that ai·e "sending your personal data to their servers" with "spywai·e and adware," and state that Avast Mobile Softwai·e will provide alerts when this occurs. Once installed, as described below at Paragraphs 18-30, the Avast Mobile Software itself sent consumers' personal data to Avast's servers, and some of that data was ultimately sold to third parties.
 
 ## Respondents' Desktop Software
 
 **15.**	Since at least 2015, on the download page for the Avast Desktop Softwai·e, Avast included the following representations, which consumers would view prior to downloading the softwai·e:
+
 ![alt text](assets/image_avast_4.png)
+
 Avast represented that its software would"[s]hield your privacy. Stop anyone and eve1yone from getting to your computer." Avast also represented that its softwai·e would allow consumers to "[r]eclaim your browser. Get rid of unwanted extensions and hackers making money off your searches." Avast continued to make these claims until Febmaiy 2017.
 
 **16.**	Beginning in April 2018, Avast began to distribute the Avast Secure Browser, which came pre-installed with an Avast Browser Extension, which was not visible to the consumer and which could not be uninstalled. Avast marketed the Avast Secure Browser for its privacy features, including making the following representations on the download page, which consumers viewed prior to choosing to download the software:
+
 ![alt text](assets/image_avast_5.png)
+
 In this image, Avast Software s.r.o. represents that the Avast Secure Browser is “Anti-Tracking” and “[p]rotects your privacy by preventing websites, advertising companies, and other web services from tracking your online activity.”
 
 **17.**	Consumers who purchased the premium versions of Avast Software were told that it would “remove ads” or “remove third-party advertising.” As discussed below at Paragraphs 18–30, however, Respondents still sold those consumers’ browsing information to third parties.
@@ -115,13 +125,17 @@ Avast is committed to protecting its customers on all fronts, which is why we in
 In fact, contrary to this promise, Respondents only provided a pop-up notification during the installation of one of their products—the Avast Desktop Software. No such notification was provided during the installation process for any other product, and no notification was provided to Avast users (including Avast Desktop Software users) who had already downloaded Avast Software, even though Respondents not only sold information collected from those users on a going-forward basis but also information that had previously been collected from those users in 2014. And, at least one version of the pop-up notification for the Avast Desktop Software claimed, incorrectly, that the data collected “is fully de-identified and aggregated.”
 
 **35.**	Respondents included a privacy setting that enabled users of the Avast Mobile Software to turn off third-party data sharing (the default setting allowed disclosure of browsing information to third parties). Respondents did not disclose the existence of this setting either before or during the installation process—consumers would have to explore their settings to find it after downloading the software. Even if they did find the setting, the description of the setting indicated incorrectly that data the consumer permitted to be shared with third parties would be anonymized:
+
 ![alt text](assets/image_avast_6.png)
+
 **36.**	The online download pages of the Avast Software products contain links to Respondents’ privacy policy. Prior to October 2018, Respondents’ sale of consumers’ browsing information to third parties through Jumpshot was not disclosed in the privacy policy. Privacy policies prior to October 2018 stated that browsing information would be collected only “to ascertain the source of [malware] infection” and that these products “collect no more information than is required in order to provide full functionality.” These policies stated that personally identifiable information would be provided to third parties only when required by law or in the context of a service provider.
 
 **37.**	Beginning in October 2018, Respondents stated in their privacy policy for the first time that browsing information, referred to in the policy as “Clickstream Data,” would be disclosed to third parties, but indicated that “[w]e pseudonymize and anonymize the Clickstream Data and re-use it for cross-product direct marketing, cross-product development and third party trend analytics.” In the same policy, Respondents stated, “[w]e also share statistical data that has been anonymized and aggregated geographically and so cannot be used to identify individuals, with third parties for trend analytics.” Respondents’ privacy policy defined “anonymized” as “removing or de-identifying all specific identifiers	When we refer to anonymous data, we mean data that cannot be reversed into personal data.”
 
 **38.**	In 2019, Respondents revised their privacy policy to indicate that certain data would be disclosed to Respondent Jumpshot:
+
 ![alt text](assets/image_avast_7.png)
+
 This statement represents, among other things, that “all that Jumpshot gets is an aggregated, de- identified data set of online trends.” In fact, as described above at Paragraphs 18–30, Jumpshot received granular, non-aggregate browsing information from Avast.
 
 **39.**	Respondents removed the “Trend Analytics” language from its privacy policy in December 2019, after Google banned the Avast Extensions for violating the Chrome Web Store’s policy, in place since April 2016, which prohibits “[c]ollection and use of web browsing activity . . . except to the extent required for a user-facing feature described prominently in the Product’s Chrome Web Store page and in the Product’s user interface.”

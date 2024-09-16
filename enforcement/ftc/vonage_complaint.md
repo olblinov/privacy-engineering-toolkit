@@ -139,13 +139,19 @@ must call a special cancellation telephone number, which is obscured within the 
 ## Surprise, High Fees Employed as Deterrent to Cancellation
 
 **39.**	In numerous instances, Vonage deters cancellation by requiring customers under contract to pay an “Early Termination Fee” (“ETF”). The existence and amount of the fee is not clearly and conspicuously disclosed to business and residential customers enrolling in Vonage’s services, whether online or via phone. Residential consumers signing up online would see a screen such as the example below:
+
 ![alt text](assets/vonage-image.png)
+
 If the consumer notices and clicks the “View Offer Terms” link, the consumer would next see the following screen:
+
 ![alt text](assets/vonage-image-1.png)
+
 **40.**	Eleven lines in, amongst other unbolded language, it reads, “Early termination may be subject to fees; max. ETF of $120 but Vonage prorates based on length of tenure.”
 
 **41.**	For business consumers signing up online, information about ETF likewise appears only in small print in the enrollment flow. Consumers must first select a plan and click on the option to “checkout” in order to arrive on a page requesting their address and payment information.
+
 ![alt text](assets/vonage-image-2.png)
+
 **42.**	On the above-depicted page, consumers must find small print disclosures about early termination, which in any case do not specify the amount of the fees, and instead refer only vaguely to the “Terms of Service.” For those consumers who then seek out the “Terms of Service” document, information about the amount of the ETF is only presented on page 8 of 25.
 
 **43.**	Vonage similarly hides the ETF information for consumers signing up for services over the phone. Specifically, Vonage training materials state that information about the existence of an ETF “should not be proactively offered, but should be mentioned reactively” only if consumers specifically ask what happens if they cancel within the contract term.

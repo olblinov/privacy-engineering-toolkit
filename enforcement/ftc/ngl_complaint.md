@@ -48,47 +48,17 @@ of California, by and through the District Attorney of Los Angeles County
 
 (collectively, “Plaintiffs”), for their Complaint allege:
 
-1. The FTC brings this action for Defendants’ violations of Section 5(a)
+1. The FTC brings this action for Defendants’ violations of Section 5(a) of the FTC Act, 15 U.S.C. § 45(a), the Restore Online Shoppers’ Confidence Act (“ROSCA”), 15 U.S.C. § 8401 et seq., and the Children’s Online Privacy Protection Rule (“COPPA Rule”), 16 C.F.R. § 312. For these violations, the FTC seeks relief, including a preliminary and permanent injunction, monetary relief, and other relief pursuant to Sections 13(b) and 19 of the FTC Act, 15 U.S.C. §§53(b), 57b, Section 5 of ROSCA, 15 U.S.C. § 8404, and Sections 1303(c) and 1306(d) of the Children’s Online Privacy Protection Act of 1998 (“COPPA”), 15 U.S.C. §§ 6502(c), 6505(d).
 
-of the FTC Act, 15 U.S.C. § 45(a), the Restore Online Shoppers’ Confidence Act
-
-(“ROSCA”), 15 U.S.C. § 8401 et seq., and the Children’s Online Privacy
-
-Protection Rule (“COPPA Rule”), 16 C.F.R. § 312. For these violations, the FTC
-
-seeks relief, including a preliminary and permanent injunction, monetary relief,
-
-and other relief pursuant to Sections 13(b) and 19 of the FTC Act, 15 U.S.C. §§
-
-53(b), 57b, Section 5 of ROSCA, 15 U.S.C. § 8404, and Sections 1303(c) and
-
-1306(d) of the Children’s Online Privacy Protection Act of 1998 (“COPPA”), 15
-
-U.S.C. §§ 6502(c), 6505(d).
-
-2. The People of the State of California, by and through George Gascón,
-
-District Attorney of Los Angeles County, bring this action against Defendants for
-
-violation of the California Unfair Competition Law (“UCL”) (Bus. & Prof. Code §
-
-17200 et seq.) and the California False Advertising Law (“FAL”) (Bus. & Prof.
-
-Code § 17500 et seq.).
+2. The People of the State of California, by and through George Gascón, District Attorney of Los Angeles County, bring this action against Defendants for violation of the California Unfair Competition Law (“UCL”) (Bus. & Prof. Code § 17200 et seq.) and the California False Advertising Law (“FAL”) (Bus. & Prof.Code § 17500 et seq.).
 
 # JURISDICTION AND VENUE
 
-3. This Court has subject matter jurisdiction over the federal law claims
+3. This Court has subject matter jurisdiction over the federal law claims pursuant to 28 U.S.C. §§ 1331, 1337(a), and 1345. This Court has supplemental jurisdiction over the subject matter of the state law claims pursuant to 28 U.S.C. § 1367.
 
-pursuant to 28 U.S.C. §§ 1331, 1337(a), and 1345. This Court has supplemental
+4. Venue is proper in this District under 28 U.S.C. §§ 1391(b)(1), (b)(2), (b)(3), (c)(2), and (d), and 15 U.S.C. § 53(b).
 
-jurisdiction over the subject matter of the state law claims pursuant to 28 U.S.C. § 1367.
-
-4. Venue is proper in this District under 28 U.S.C. §§ 1391(b)(1), (b)(2),
-
-(b)(3), (c)(2), and (d), and 15 U.S.C. § 53(b).
-
-PLAINTIFFS
+# PLAINTIFFS
 
 5. The FTC is an independent agency of the United States Government created by the FTC Act, which authorizes the FTC to commence this district court civil action by its own attorneys. 15 U.S.C. §§ 41–58.  The FTC enforces Section 5(a) of the FTC Act, 15 U.S.C. § 45(a), which prohibits unfair or deceptive acts or practices in or affecting commerce.  The FTC also enforces ROSCA, 15 U.S.C. §§ 8401-8405, which requires Internet sellers to meet disclosure, consent, and cancellation requirements before charging consumers through a negative option feature. A negative option feature is a provision of a contract under which the consumer’s silence or failure to take affirmative action to reject a good or service or to cancel the agreement is interpreted by the negative option seller as acceptance or continuing acceptance of the offer, and an example of such a provision is a subscription. The FTC also enforces the COPPA Rule, 16 C.F.R. § 312, which requires operators of an online service directed to children or with actual knowledge of the collection of personal information from a child to obtain verifiable parental consent prior to any collection, use, or disclosure of personal information from children.
 
