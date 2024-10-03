@@ -1,4 +1,13 @@
 # September 2024
+[16-30 September 24](2024/september/300924.md)
+- 💰 Meta Fined €91M for Storing Passwords in Plaintext
+- 💼 Germany Clarifies Data Transfers in M&A Deals
+- ⚖️ CJEU Rules DPAs Not Obliged to Issue Fines
+- 🍪 UK Study Reveals Flaws in Cookie Management Designs
+- 📊 Berlin Imposes Over €500K in Data Protection Fines in 2023
+- 📱 CNIL Issues New Guide on App Ecosystem and GDPR Compliance
+- ❌ €30K Fine for Data Access and Transparency Failures in Greece
+
 [1-15 September 24](2024/september/150924.md):
 - ⚖️ EU to Develop SCCs for Third-Country Data Importers Subject to GDPR
 - 💊 French CNIL Fines CEGEDIM SANTÉ €800k for Pseudonymous Health Data Processing

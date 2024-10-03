@@ -8,7 +8,9 @@
 
 ## Local
 ### Theory 
-- [Differential privacy in (a bit) more detail](https://desfontain.es/privacy/differential-privacy-in-more-detail.html)
+- [Differential privacy in (a bit) more detail](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) 
+- Nguyên, Thông T., et al. "Collecting and analyzing data from smart device users with local differential privacy." arXiv preprint arXiv:1606.05053 (2016).
+- Wang, Ning, et al. "Collecting and analyzing multidimensional data with local differential privacy." 2019 IEEE 35th International Conference on Data Engineering (ICDE). IEEE, 2019.
 
 ### Implementation
 
@@ -43,6 +45,8 @@
   What if you want more privacy? Instead of having the participants say the truth with probability 50%, you can have them tell the truth 25% of the time. What if you want less noise instead, at the cost of less protection? Have them tell the truth 75% of the time. Finding out ε and quantifying the noise for each option is left as an exercise for the reader =)
 </details>
 
+#### Local Differential Privacy Applications
+Yang, M., Guo, T., Zhu, T., Tjuawinata, I., Zhao, J., & Lam, K. Y. (2023). [Local differential privacy and its applications: A comprehensive survey](https://arxiv.org/pdf/2008.03686). Computer Standards & Interfaces, 103827.
 
 #### Google RAPPOR
   - Google
@@ -57,6 +61,7 @@
 #### GitHub Repos
 
 - [hharcolezi / multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy)
+  - [Presentation](https://hharcolezi.github.io/files/2022_Multi_Freq_LDPy_Presentation.pdf)
   - Arcolezi, Héber H., et al. [Multi-Freq-LDPy: multiple frequency estimation under local differential privacy in python.](https://arxiv.org/pdf/2205.02648) European Symposium on Research in Computer Security. Cham: Springer Nature Switzerland, 2022.
 - [Samuel-Maddock / pure-LDP](https://github.com/Samuel-Maddock/pure-LDP)
   - Cormode, Graham, Samuel Maddock, and Carsten Maple. [Frequency estimation under local differential privacy [experiments, analysis and benchmarks].](https://vldb.org/pvldb/vol14/p2046-cormode.pdf) arXiv preprint arXiv:2103.16640 (2021).
