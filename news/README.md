@@ -1,3 +1,24 @@
+# October 2024
+[1-31 October 24](2024/october/311024.md):
+- ⚖️🛍️ Court Ruling: CJEU Defines Health Data in Amazon Marketplace Dispute  
+- 💼📂 Court Decision: Public Corporate Registers and Non-Material Damage Claims  
+- 📜🧩 EDPB Reveals Ambitious 2025 Strategy and Enforcement Agenda  
+- 🕵️‍♂️🌐 New EDPB ePrivacy Guidelines Reinforce Data Protection Scope  
+- ⚖️🔑 EDPB Clarifies Legitimate Interest Rules for Data Controllers  
+- 📝🛠️ EDPB Sets Standards for Processors and Sub-Processors Accountability  
+- 🚫🔄 German DPA Targets Deceptive Digital Design Patterns  
+- 📣🔍 Latvia’s DPA Enhances Transparency Requirements for Data Processing  
+- 🇮🇪💰 Irish DPC Fines LinkedIn €310 Million Over Data Processing Violations  
+- 📞👀 French CNIL Penalizes Clairvoyance Firms for Excessive Data Retention  
+- 🚔🔒 Major Data Breach Leads to €750k Fine for Irish Police Leak  
+- 📧🗑️ Italian Authority Fines Company €80k Over Excessive Email Retention  
+- 🍪🚫 Belgian DPA Imposes Daily €40k Fine for Non-Compliant Cookie Banner  
+- 💸📬 Santander Fined €50k for Ignoring Customer’s Advertising Objection  
+- 🇨🇭📱 Swiss DPA Requires Consent for Cross-Platform Tracking  
+- 🇺🇸📱 US AGs Sue TikTok Alleging Child Privacy and Safety Violations  
+- 🔔❌ FTC's Click-to-Cancel Rule Faces Industry Legal Challenges  
+- 🌐🔄 Meta Launches Data Controls Following German Anti-Trust Ruling
+
 # September 2024
 [16-30 September 24](2024/september/300924.md)
 - 💰 Meta Fined €91M for Storing Passwords in Plaintext
