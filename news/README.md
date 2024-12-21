@@ -1,3 +1,33 @@
+# November 2024
+[1-30 November 24](2024/november/301124.md)
+## Guides, Methodologies & Reports
+- 🔒🛡️ Enhanced Security: NIST Collects Comments on Protecting Controlled Unclassified Information
+- 🔐📚 Privacy Workforce: NIST Seeks Input on Privacy Task Taxonomy
+- 🇩🇪🍪 Cookie Compliance: German DPAs Release Guide for Digital Services
+- 🇧🇷🌐 International Focus: ANPD Publishes GDPR and SCCs in English
+- 🎉📈 Celebrating Progress: ANPD Marks 4 Years with Regulatory Advances
+- 🛍️❌ Harmful Designs: UK Guide Targets Manipulative Online Practices
+- 📜🔗 Blockchain Balance: Spain's AEPD Proposes Right to Be Forgotten Solution
+- 🍪📝 Cookie Clarity: Latvian DPA Highlights Common Errors in Banners
+- 🛡️⚖️ Privacy Violations: Latvian DPA on Criminal Liability for Data Misuse
+- 🔄🗂️ Data Lifecycle: Latvian DPA Explains Processing Stages
+- 🔧🔒 Built-In Protection: Latvian DPA's Privacy by Design Guide
+- 🔍❌ Search Privacy: Hamburg's Guide on Exercising Right to Be Forgotten
+- ⚙️💰 Privacy Tech: UK ICO Assesses Cost-Benefits of PETs
+- 📈📛 Breach Alert: Washington Reports Record Data Breaches
+## Enforcement
+- 🏢⚖️ Antitrust Action: Meta Fined €797M Over Facebook Marketplace Practices
+- 💶📲 Ad-Free Options: Meta Introduces Subscription Plans in EU
+- 🇰🇷📋 Privacy Breach: Meta Fined $15M for Korean Data Violations
+- 🇮🇹🚴 GDPR Fine: Foodinho Penalized €5M for Rider Data Mismanagement
+- 🤖💬 FTC Cracks Down: AI-Enabled Reviews Mislead Consumers
+- ⚖️📂 GDPR Breach: Freedelity Faces €5K Daily Fine for Data Mutualization
+- 🇩🇪💳 Debt Management: Hamburg Investigation Leads to €900K Fine
+- 🇧🇷👶 TikTok Targeted: ANPD Orders Compliance for Children's Data Privacy
+- 🏛️📜 Legal Exception: CJEU Clarifies GDPR Scope for Generated Data
+- 💾❌ Device Deletion: BBVA Fined €200K for Employee Data Wipe
+- 🇧🇪⚖️ Privacy Balance: Belgian Court Dismisses Right to Be Forgotten Case Against Google
+
 # October 2024
 [1-31 October 24](2024/october/311024.md):
 - ⚖️🛍️ Court Ruling: CJEU Defines Health Data in Amazon Marketplace Dispute  
