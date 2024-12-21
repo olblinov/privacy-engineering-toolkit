@@ -1,5 +1,16 @@
+# December 2024
+[1-15 December 24](2024/december/151224.md):
+- 📧🍪 Advertising Violation: CNIL Fines Orange €50M Over Cookie Misuse  
+- 📍🏥 Location Privacy: FTC Sues Gravy Analytics, Venntel for Data Tracking  
+- 📊🔒 Privacy Breach: FTC Targets Mobilewalla for Selling Sensitive Location Data  
+- 🛑🍪 Cookie Consent: CNIL Publishes Notice on Deceptive Dark Patterns  
+- 📞📵 Telemarketing Fine: Sky Italia Penalized €842K for Privacy Breaches  
+- 🇧🇷🔍 Non-Compliance: Brazilian DPA Investigates 20 Companies for Missing DPOs  
+- 📝🌍 Data Transfer: EDPB Releases Guidelines on GDPR Article 48  
+- 🛡️🤖 Facial Recognition: FTC Acts Against IntelliVision's Misleading Claims  
+
 # November 2024
-[1-30 November 24](2024/november/301124.md)
+[1-30 November 24](2024/november/301124.md):
 ## Guides, Methodologies & Reports
 - 🔒🛡️ Enhanced Security: NIST Collects Comments on Protecting Controlled Unclassified Information
 - 🔐📚 Privacy Workforce: NIST Seeks Input on Privacy Task Taxonomy
