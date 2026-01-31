@@ -1,16 +1,15 @@
+## DPIA Guidelines
+
 | Jurisdiction | Regulator | Resource Name / Type | Direct Link | MD Extract |
 | :---- | :---- | :---- | :---- | :---- |
+| **United Kingdom** | **ICO** | **DPIA Template** (.docx) | [Download](https://ico.org.uk/media2/migrated/2553993/dpia-template.docx) / [Local](./dpia-guides/ico/dpia-template.docx) | [View](./dpia-guides/ico/dpia-template.md) |
+| **United Kingdom** | **ICO** | **DPIA Guidance** (Web pages) | [View Online](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/data-protection-impact-assessments-dpias/) | [View](./dpia-guides/ico/dpia-guidance-combined.md) |
 | **EU / EEA** | **EDPB** | **WP 248 rev.01 Guidelines** | [Download](https://ec.europa.eu/newsroom/document.cfm?doc_id=47711) | [View](./WP248-DPIA-Guidelines.md) |
-| **Sweden** | **IMY** | **DPIA Template** (PDF) | ([https://assets.ctfassets.net/9gcqy879tcj6/2MAFUT2sbD8T7y3bHoB5mY/ca786976389bdc0c8098410b87f33bcd/mall-for-konsekvensbedomning-enligt-dataskyddsforordningen\_-\_English.pdf](https://assets.ctfassets.net/9gcqy879tcj6/2MAFUT2sbD8T7y3bHoB5mY/ca786976389bdc0c8098410b87f33bcd/mall-for-konsekvensbedomning-enligt-dataskyddsforordningen_-_English.pdf)) |
-| **Sweden** | **IMY** | **Practical Guide** (PDF) | ([https://assets.ctfassets.net/9gcqy879tcj6/2iUnwx8UzLq0wpwGG73vid/b3bfae26762a9bbbc1bae0f0256c944d/en-praktisk-guide\_-\_English.pdf](https://assets.ctfassets.net/9gcqy879tcj6/2iUnwx8UzLq0wpwGG73vid/b3bfae26762a9bbbc1bae0f0256c944d/en-praktisk-guide_-_English.pdf)) |
-| **Finland** | **Tietosuoja** | **DPIA Excel Tool** (.xlsx) | ([https://tietosuoja.fi/documents/6927448/66036250/LIITE+I+TVA+ty%C3%B6kalu.xlsx/9007d6fd-272c-f5de-6c8e-3e982dcf6542](https://tietosuoja.fi/documents/6927448/66036250/LIITE+I+TVA+ty%C3%B6kalu.xlsx/9007d6fd-272c-f5de-6c8e-3e982dcf6542)) |
-| **Finland** | **Tietosuoja** | **Data Protection Tool** (SME) | ([https://www.tietosuojaapkyrityksille.fi/en/](https://www.tietosuojaapkyrityksille.fi/en/)) |
-| **Luxembourg** | **CNPD** | **Consultation Form** (.docx) | ([https://cnpd.public.lu/dam-assets/fr/formulaires/formulaire-cnpd-aipd-pour-consultation-prealable.docx](https://cnpd.public.lu/dam-assets/fr/formulaires/formulaire-cnpd-aipd-pour-consultation-prealable.docx)) |
-| **Slovenia** | **IP-RS** | **DPIA Guidelines** | [View Guidelines](https://www.ip-rs.si/zakonodaja/reforma-evropskega-zakonodajnega-okvira-za-varstvo-osebnih-podatkov/klju%C4%8Dna-podro%C4%8Dja-uredbe/ocena-u%C4%8Dinka-v-zvezi-z-varstvom-podatkov/) |
-| **Italy** | **Garante** | **DPIA Model/Checklist** | ([https://www.gpdp.it/garante/document?ID=7185457](https://www.gpdp.it/garante/document?ID=7185457)) |
-| **Belgium** | **APD/GBA** | **DPIA Guide** (PDF) | ([https://www.autoriteprotectiondonnees.be/publications/guide-analyse-d-impact-relative-a-la-protection-des-donnees.pdf](https://www.autoriteprotectiondonnees.be/publications/guide-analyse-d-impact-relative-a-la-protection-des-donnees.pdf)) |
+| **France** | **CNIL** | **Methodology Guide** (PDF) | [PDF](./dpia-guides/france-cnil/cnil-pia-1-en-methodology.pdf) | [View](./dpia-guides/france-cnil/cnil-pia-1-en-methodology.md) |
+| **France** | **CNIL** | **Templates** (PDF) | [PDF](./dpia-guides/france-cnil/cnil-pia-2-en-templates.pdf) | [View](./dpia-guides/france-cnil/cnil-pia-2-en-templates.md) |
 
-**DPIA Lists & Opinions by Jurisdiction**
+
+## DPIA Lists & Opinions by Jurisdiction
 | Jurisdiction | Type | PDF | Text |
 | :---- | :---- | :---- | :---- |
 | Austria | Opinion/draft opinion | [PDF](./dpia-list/austria/edpb_opinion_2018_art_64_at_sas_dpia_list_en.pdf) | [View](./dpia-list/austria/edpb_opinion_2018_art_64_at_sas_dpia_list_en.md) |
